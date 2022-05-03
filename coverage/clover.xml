@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1651271675491" clover="3.2.0">
+  <project timestamp="1651271675491" name="All files">
+    <metrics statements="27" coveredstatements="25" conditionals="41" coveredconditionals="39" methods="7" coveredmethods="7" elements="75" coveredelements="71" complexity="0" loc="27" ncloc="27" packages="1" files="7" classes="7"/>
+    <file name="Bowman.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Bowman.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Character.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Character.js">
+      <metrics statements="21" coveredstatements="19" conditionals="11" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <line num="3" count="6" type="cond" truecount="3" falsecount="1"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="6" falsecount="1"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="31" count="6" type="stmt"/>
+      <line num="32" count="6" type="stmt"/>
+      <line num="33" count="6" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Daemon.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Magician.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Magician.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Swordsman.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Swordsman.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Undead.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Undead.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Zombie.js" path="/Users/Andrey/Desktop/Наша учеба и творчество/HTML_CSS_JS exp/NodeJS/homework5/src/js/Zombie.js">
+      <metrics statements="1" coveredstatements="1" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
